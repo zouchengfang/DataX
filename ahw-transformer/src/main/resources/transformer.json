@@ -1,0 +1,6 @@
+{
+  "name": "ahw-transformer",
+  "class": "org.ahw.transformer.AhwTransformer",
+  "description": "ahw transformer ",
+  "developer": "zoucf@anhewang.com"
+}
